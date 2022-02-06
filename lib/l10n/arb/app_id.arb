@@ -1,0 +1,11 @@
+{
+    "@@locale": "id",
+    "counterAppBarTitle": "Menghitung",
+    "@counterAppBarTitle": {
+        "description": "Untuk menampilkan title appbar"
+    },
+    "appbarTitle": "Judul AppBar",
+    "@appbarTitle": {
+        "description": "Teks menampilkan judul appbar"
+    }
+}
